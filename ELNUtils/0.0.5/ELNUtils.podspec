@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.summary      = "e-Legion set of utility things for more comfortable everything."
   s.authors		   = "."
   s.license		   = "MIT"
-  s.homepage     = "."
+  s.homepage     = "https://github.com/elegion/ios-pods-ELNUtils"
 
 end
