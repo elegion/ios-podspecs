@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.summary      = "e-Legion asynchronous testing utilities"
   s.authors		   = "."
   s.license		   = "MIT"
-  s.homepage     = "https://github.com/elegion/ios-ELNTestUtils."
+  s.homepage     = "https://github.com/elegion/ios-ELNTestUtils"
   s.frameworks   = "XCTest"
   
 end
