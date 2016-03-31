@@ -7,8 +7,8 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "chebur" => "chebur.mail@gmail.com" }
   s.platform     = :ios
-  s.source       = { :git => "https://github.com/elegion/ios-ELNViews.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/elegion/ios-ELNViews.git", :tag => "v#{s.version}" }
 
-  s.source_files  = "Source", "Source/**/*.{h,m}"
+  s.source_files  = "Source/**/*"
 
 end
