@@ -13,5 +13,6 @@ Pod::Spec.new do |s|
   s.source_files            = 'Source'
 
   s.frameworks              = 'Foundation', 'CoreData', 'Ailen'
+  s.dependency              = 'Ailen', '0.0.1.alpha.4'
 
 end
